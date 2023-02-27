@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaluka
 - 👀 I’m interested in Python, Data science and Data analytics 
-- 🌱 I’m currently learning Python and data science
+- 🌱 I’m currently learning Python and data analytics
 - 💞️ I’m looking to collaborate on data sceicne and analytics projects
 - 📫 How to reach me wkaluka@gmail.com 
 
